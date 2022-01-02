@@ -20,7 +20,6 @@
         "laravel/ui": "2.4",
         "midtrans/midtrans-php": "^2.4",
         "sentry/sentry-laravel": "^2.7",
-        "yajra/laravel-datatables-buttons": "^2.0",
         "yajra/laravel-datatables-oracle": "~9.0"
     },
     "require-dev": {
